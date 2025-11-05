@@ -98,8 +98,6 @@ This project includes:
   - Network traffic (bytes transmitted/received)
   - Request latency and error rates
 
-See the screenshots above for monitoring dashboards in action.
-
 ## 🎓 Learning Outcomes
 
 Through this project, I gained hands-on experience with:
